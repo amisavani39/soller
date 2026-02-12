@@ -12,6 +12,7 @@
 body {
   background: #f8fafc;
   overflow-x: hidden;
+  overflow: hidden;
 }
 
 .page {
@@ -720,7 +721,7 @@ nav a {
 
 .shape-big-orange {
   position: absolute;
-  right: -300px;
+  right: -258px;
   top: -200px;
   width: 600px;
   height: 600px;
